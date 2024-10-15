@@ -1,0 +1,23 @@
+/* This is a comment is CSS*/   
+body {
+    background-color: lightblue;
+    color: white;
+}      
+
+nav{
+height: 600px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+footer{
+text-align: center;
+margin-right: 200px;
+}
+img{
+margin-right: 200px;
+}
+headder{
+text-align: center;
+}
